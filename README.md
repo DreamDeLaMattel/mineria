@@ -1,0 +1,2 @@
+# mineria
+Treball Mineria 
